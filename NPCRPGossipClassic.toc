@@ -1,0 +1,8 @@
+## Interface: 11305   
+## Title: NPC RP Gossip Classic
+## Version: 1.0.4
+## Notes: This AddOn shows RP Text for those NPCs that have it. Toggle with the /npcrpgossip command.
+## Author: Conine Spiritwolf
+## SavedVariables: NPCRPGossipEnable, NPCRPGossipStoryline
+## DefaultState: enabled
+NPCRPGossipClassic.lua
